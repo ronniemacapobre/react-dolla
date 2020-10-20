@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-mbtbank/static/css/main.330aae2d.chunk.css",
+    "main.js": "/react-mbtbank/static/js/main.f0f2d8c4.chunk.js",
+    "main.js.map": "/react-mbtbank/static/js/main.f0f2d8c4.chunk.js.map",
+    "runtime-main.js": "/react-mbtbank/static/js/runtime-main.a5c63fe4.js",
+    "runtime-main.js.map": "/react-mbtbank/static/js/runtime-main.a5c63fe4.js.map",
+    "static/js/2.3193bd48.chunk.js": "/react-mbtbank/static/js/2.3193bd48.chunk.js",
+    "static/js/2.3193bd48.chunk.js.map": "/react-mbtbank/static/js/2.3193bd48.chunk.js.map",
+    "index.html": "/react-mbtbank/index.html",
+    "precache-manifest.8174b8e1170fd691eab93d42d3dcda6c.js": "/react-mbtbank/precache-manifest.8174b8e1170fd691eab93d42d3dcda6c.js",
+    "service-worker.js": "/react-mbtbank/service-worker.js",
+    "static/css/main.330aae2d.chunk.css.map": "/react-mbtbank/static/css/main.330aae2d.chunk.css.map",
+    "static/js/2.3193bd48.chunk.js.LICENSE.txt": "/react-mbtbank/static/js/2.3193bd48.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/react-mbtbank/static/media/svg-1.2e4becb6.svg",
+    "static/media/svg-2.svg": "/react-mbtbank/static/media/svg-2.1db4594e.svg",
+    "static/media/svg-3.svg": "/react-mbtbank/static/media/svg-3.8041fe87.svg",
+    "static/media/video.mp4": "/react-mbtbank/static/media/video.b5a70d6c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c63fe4.js",
+    "static/js/2.3193bd48.chunk.js",
+    "static/css/main.330aae2d.chunk.css",
+    "static/js/main.f0f2d8c4.chunk.js"
+  ]
+}

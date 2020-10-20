@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03bf86a8e57ee502e4ba79588ee73f51",
+    "revision": "39bf1c14e6b77db24f73cfbb5540ec49",
     "url": "/react-mbtbank/index.html"
   },
   {
